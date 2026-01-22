@@ -1,6 +1,6 @@
 # Free-IQ-test-with-certificate
 
-Take a 10 minute free iq test with certificate
+Take a 10 minute free iq test with certificate - Both tests are for Educational Purpose only.
 
 https://react-9b4tym.onspace.build - This one displays results but the download link cannot download a proper pdf, You can screencapture the page and crop it and save it as pdf. Three levels are available.
 
